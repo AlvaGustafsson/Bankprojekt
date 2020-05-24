@@ -1,0 +1,7 @@
+C:\Users\algu01002\source\repos\Bankprogram lokalt\Bankprogram lokalt\obj\Debug\Bankprogram lokalt.csprojAssemblyReference.cache
+C:\Users\algu01002\source\repos\Bankprogram lokalt\Bankprogram lokalt\obj\Debug\Bankprogram lokalt.csproj.CoreCompileInputs.cache
+C:\Users\algu01002\source\repos\Bankprogram lokalt\Bankprogram lokalt\bin\Debug\Bankprogram lokalt.exe.config
+C:\Users\algu01002\source\repos\Bankprogram lokalt\Bankprogram lokalt\bin\Debug\Bankprogram lokalt.exe
+C:\Users\algu01002\source\repos\Bankprogram lokalt\Bankprogram lokalt\bin\Debug\Bankprogram lokalt.pdb
+C:\Users\algu01002\source\repos\Bankprogram lokalt\Bankprogram lokalt\obj\Debug\Bankprogram lokalt.exe
+C:\Users\algu01002\source\repos\Bankprogram lokalt\Bankprogram lokalt\obj\Debug\Bankprogram lokalt.pdb
